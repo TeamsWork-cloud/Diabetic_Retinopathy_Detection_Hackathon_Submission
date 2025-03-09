@@ -1,8 +1,6 @@
 # Diabetic_Retinopathy_Detection_Hackathon_Submission
 For support or inquiries, please contact us at [Zainab Fatima](mailto:zenebb.19@gmail.com) or [Laiba Masood](mailto:laibamasood24@gmail.com).
 
-# Diabetic Retinopathy Detection
-
 # Overview
 This project aims to detect diabetic retinopathy (DR) using deep learning techniques, specifically **EfficientNet-B2**, to classify fundus images into five severity levels.
 
